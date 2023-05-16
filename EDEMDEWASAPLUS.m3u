@@ -21,13 +21,331 @@ https://iplogger.com/ibizaHDTV
 #https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",IBizaHDTV
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="1"group-title="XXX 🔞" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841.jpg",Kaloopy
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/cb866d48-f17a-4d63-b154-160d3e11a6bb/2.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/mhgf2xE/-0800/c.m3u8
 
+#EXTINF:-1 tvg-id="2"group-title="XXX 🔞" tvg-logo="https://slfolks.com/upload/source/a3-bikini-network.png",A3 Bikini TV
+#https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist.m3u8
+
+#EXTINF:-1 tvg-id="3"group-title="XXX 🔞" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-id="1"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Rin
+https://b-hls-09.doppiocdn.com/hls/58663247/58663247.m3u8
+
+#EXTINF:-1 tvg-id="1"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Anna Gau 
+https://b-hls-06.doppiocdn.com/hls/93977457/93977457.m3u8
+
+#EXTINF:-1 tvg-id="2"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Vanila
+https://b-hls-03.doppiocdn.com/hls/76550244/76550244.m3u8
+
+#EXTINF:-1 tvg-id="3"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Candybabyya
+https://b-hls-08.doppiocdn.com/hls/79586008/79586008_1080p.m3u8
+
+#EXTINF:-1 tvg-id="4"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Rosie
+https://b-hls-06.doppiocdn.com/hls/75789811/75789811.m3u8
+
+#EXTINF:-1 tvg-id="5"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Angelbj
+https://b-hls-17.doppiocdn.com/hls/87324095/87324095.m3u8
+
+#EXTINF:-1 tvg-id="50"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",candysweetie
+https://b-hls-20.doppiocdn.com/hls/67627491/67627491.m3u8
+
+#EXTINF:-1 tvg-id="6"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Mia
+https://b-hls-10.doppiocdn.com/hls/75925392/master/75925392.m3u8
+
+#EXTINF:-1 tvg-id="7"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Top
+https://b-hls-02.doppiocdn.com/hls/73412697/73412697.m3u8
+
+#EXTINF:-1 tvg-id="8"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Sweet
+https://b-hls-04.doppiocdn.com/hls/97136773/97136773.m3u8
+
+#EXTINF:-1 tvg-id="9"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Jolie
+https://b-hls-23.doppiocdn.com/hls/100004617/100004617.m3u8
+
+#EXTINF:-1 tvg-id="10"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Fresh
+https://b-hls-11.doppiocdn.com/hls/52028289/52028289.m3u8
+
+#EXTINF:-1 tvg-id="11"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Cutie vivi
+https://b-hls-18.doppiocdn.com/hls/93876462/93876462_720p.m3u8
+
+#EXTINF:-1 tvg-id="11"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",yumi office
+https://b-hls-05.doppiocdn.com/hls/109749990/109749990_720p.m3u8
+
+#EXTINF:-1 tvg-id="11"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",thuhuong
+https://b-hls-13.doppiocdn.com/hls/109047768/109047768.m3u8
+
+#EXTINF:-1 tvg-id="12"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Lanxinlove
+https://b-hls-20.doppiocdn.com/hls/95832277/95832277.m3u8
+
+#EXTINF:-1 tvg-id="13"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Rosetop
+https://b-hls-09.doppiocdn.com/hls/80753916/80753916_720p.m3u8
+
+#EXTINF:-1 tvg-id="14"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Jingbabei
+https://b-hls-10.doppiocdn.com/hls/76020849/76020849.m3u8
+
+#EXTINF:-1 tvg-id="15"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Dautay
+https://b-hls-05.doppiocdn.com/hls/91703939/91703939_720p.m3u8
+
+#EXTINF:-1 tvg-id="16"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Linaxuka
+https://b-hls-17.doppiocdn.com/hls/88999356/88999356.m3u8
+
+#EXTINF:-1 tvg-id="17"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Min2k3
+https://b-hls-02.doppiocdn.com/hls/95303418/95303418.m3u8
+
+#EXTINF:-1 tvg-id="17"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Nguctunhien
+https://b-hls-11.doppiocdn.com/hls/103231974/103231974.m3u8
+
+#EXTINF:-1 tvg-id="18"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Eva
+https://b-hls-11.doppiocdn.com/hls/88053420/88053420.m3u8
+
+#EXTINF:-1 tvg-id="18"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Boonie
+https://b-hls-18.doppiocdn.com/hls/103992485/103992485.m3u8
+
+#EXTINF:-1 tvg-id="18"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Jiso
+https://b-hls-03.doppiocdn.com/hls/100001907/100001907.m3u8
+
+#EXTINF:-1 tvg-id="18"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Minmin
+https://b-hls-08.doppiocdn.com/hls/95066498/95066498.m3u8
+
+#EXTINF:-1 tvg-id="19"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Mina
+https://b-hls-10.doppiocdn.com/hls/82856047/82856047.m3u8
+
+#EXTINF:-1 tvg-id="19"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Kathy
+https://b-hls-17.doppiocdn.com/hls/93369133/93369133.m3u8
+
+#EXTINF:-1 tvg-id="20"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Jennie
+https://b-hls-19.doppiocdn.com/hls/93766581/93766581.m3u8
+
+#EXTINF:-1 tvg-id="21"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Yangmi
+https://b-hls-07.doppiocdn.com/hls/65577438/65577438.m3u8
+
+#EXTINF:-1 tvg-id="22"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Sakura
+https://b-hls-05.doppiocdn.com/hls/53669042/53669042.m3u8
+
+#EXTINF:-1 tvg-id="23"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Jasmine
+https://b-hls-18.doppiocdn.com/hls/75200932/75200932.m3u8
+
+#EXTINF:-1 tvg-id="24"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",peggy
+https://b-hls-04.doppiocdn.com/hls/103721484/103721484.m3u8
+
+#EXTINF:-1 tvg-id="24"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",qiyi
+https://b-hls-10.doppiocdn.com/hls/94121918/94121918.m3u8
+
+#EXTINF:-1 tvg-id="25"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Gillan
+https://b-hls-20.doppiocdn.com/hls/78099672/78099672.m3u8
+
+#EXTINF:-1 tvg-id="26"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Lisa
+https://b-hls-05.doppiocdn.com/hls/63868574/63868574.m3u8
+
+#EXTINF:-1 tvg-id="27"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Sunny
+https://b-hls-03.doppiocdn.com/hls/89715636/89715636.m3u8
+
+#EXTINF:-1 tvg-id="28"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Wetdream
+https://b-hls-05.doppiocdn.com/hls/82167628/82167628.m3u8
+
+#EXTINF:-1 tvg-id="29"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Yumi
+https://b-hls-12.doppiocdn.com/hls/102807140/102807140.m3u8
+
+#EXTINF:-1 tvg-id="29"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Makita
+https://b-hls-21.doppiocdn.com/hls/82036805/82036805.m3u8
+
+#EXTINF:-1 tvg-id="29"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Winnie
+https://b-hls-24.doppiocdn.com/hls/97230797/97230797.m3u8
+
+#EXTINF:-1 tvg-id="29"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Pretty
+https://b-hls-07.doppiocdn.com/hls/99404864/99404864.m3u8
+
+#EXTINF:-1 tvg-id="30"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Jinyiyi
+https://b-hls-06.doppiocdn.com/hls/78737779/78737779.m3u8
+
+#EXTINF:-1 tvg-id="31"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Minzy
+https://b-hls-18.doppiocdn.com/hls/83392251/83392251.m3u8
+
+#EXTINF:-1 tvg-id="32"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Babyhark
+https://b-hls-06.doppiocdn.com/hls/84727013/84727013.m3u8
+
+#EXTINF:-1 tvg-id="33"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Jesi
+https://b-hls-04.doppiocdn.com/hls/63876249/63876249.m3u8
+
+#EXTINF:-1 tvg-id="34"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Maymay
+https://b-hls-17.doppiocdn.com/hls/75537298/75537298.m3u8
+
+#EXTINF:-1 tvg-id="35"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Anna
+https://b-hls-19.doppiocdn.com/hls/76766494/76766494.m3u8
+
+#EXTINF:-1 tvg-id="36"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Koitop
+https://b-hls-01.doppiocdn.com/hls/86183126/86183126.m3u8
+
+#EXTINF:-1 tvg-id="37"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Meme
+https://b-hls-03.doppiocdn.com/hls/82710922/82710922.m3u8
+
+#EXTINF:-1 tvg-id="38"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",eochanghy
+https://b-hls-11.doppiocdn.com/hls/86261630/86261630.m3u8
+
+#EXTINF:-1 tvg-id="39"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Funnygirl
+https://b-hls-06.doppiocdn.com/hls/68090271/68090271.m3u8
+
+#EXTINF:-1 tvg-id="40"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Nira
+https://b-hls-04.doppiocdn.com/hls/92068742/92068742_720p.m3u8
+
+#EXTINF:-1 tvg-id="41"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Cmcoo
+https://b-hls-24.doppiocdn.com/hls/89443470/89443470.m3u8
+
+#EXTINF:-1 tvg-id="42"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Sweerheart
+https://b-hls-07.doppiocdn.com/hls/90824862/90824862.m3u8
+
+#EXTINF:-1 tvg-id="44"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Funny
+https://b-hls-07.doppiocdn.com/hls/75411559/master/75411559.m3u8
+
+#EXTINF:-1 tvg-id="45"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Miumiu
+https://b-hls-24.doppiocdn.com/hls/91400728/91400728.m3u8
+
+#EXTINF:-1 tvg-id="46"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",GirlLike
+https://b-hls-17.doppiocdn.com/hls/91975600/91975600.m3u8
+
+#EXTINF:-1 tvg-id="47"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",camile
+https://b-hls-06.doppiocdn.com/hls/103232933/103232933_720p60.m3u8
+
+#EXTINF:-1 tvg-id="48"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Feelxixi
+https://b-hls-17.doppiocdn.com/hls/94942020/94942020.m3u8
+
+#EXTINF:-1 tvg-id="49"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Zhuzhu
+https://b-hls-12.doppiocdn.com/hls/91442094/91442094.m3u8
+
+#EXTINF:-1 tvg-id="50"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Jam
+https://b-hls-20.doppiocdn.com/hls/92082189/92082189.m3u8
+
+#EXTINF:-1 tvg-id="51"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Cream
+https://b-hls-09.doppiocdn.com/hls/68474824/68474824.m3u8
+
+#EXTINF:-1 tvg-id="52"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Jesical
+https://b-hls-24.doppiocdn.com/hls/93684531/93684531.m3u8
+
+#EXTINF:-1 tvg-id="53"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Daisy
+https://b-hls-23.doppiocdn.com/hls/36366903/36366903.m3u8
+
+#EXTINF:-1 tvg-id="54"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Rankking
+https://b-hls-11.doppiocdn.com/hls/89229755/89229755.m3u8
+
+#EXTINF:-1 tvg-id="55"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Azura
+https://b-hls-02.doppiocdn.com/hls/92221596/92221596.m3u8
+
+#EXTINF:-1 tvg-id="56"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Fairy
+https://b-hls-07.doppiocdn.com/hls/86063654/86063654.m3u8
+
+#EXTINF:-1 tvg-id="57"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Bettyl
+https://b-hls-24.doppiocdn.com/hls/77354502/77354502.m3u8
+
+#EXTINF:-1 tvg-id="58"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Lixueer
+https://b-hls-03.doppiocdn.com/hls/78601849/78601849.m3u8
+
+#EXTINF:-1 tvg-id="59"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Roéonly
+https://b-hls-20.doppiocdn.com/hls/97146945/97146945.m3u8
+
+#EXTINF:-1 tvg-id="60"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Laugh
+https://b-hls-16.doppiocdn.com/hls/74103695/74103695.m3u8
+
+#EXTINF:-1 tvg-id="61"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Anne
+https://b-hls-17.doppiocdn.com/hls/80614647/80614647.m3u8
+
+#EXTINF:-1 tvg-id="62"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Redfairy
+https://b-hls-07.doppiocdn.com/hls/93678597/93678597.m3u8
+
+#EXTINF:-1 tvg-id="63"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Sunly
+https://b-hls-17.doppiocdn.com/hls/88778036/88778036.m3u8
+
+#EXTINF:-1 tvg-id="64"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Youdiantian
+https://b-hls-10.doppiocdn.com/hls/90530448/90530448.m3u8
+
+#EXTINF:-1 tvg-id="65"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Elinf
+https://b-hls-12.doppiocdn.com/hls/93191505/93191505.m3u8
+
+#EXTINF:-1 tvg-id="66"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Yukisara
+https://b-hls-21.doppiocdn.com/hls/54104435/54104435.m3u8
+
+#EXTINF:-1 tvg-id="67"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Abby
+https://b-hls-12.doppiocdn.com/hls/64241378/64241378.m3u8
+
+#EXTINF:-1 tvg-id="68"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Orri
+https://b-hls-19.doppiocdn.com/hls/80815410/80815410.m3u8
+
+#EXTINF:-1 tvg-id="69"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Minhtian
+https://b-hls-24.doppiocdn.com/hls/98259508/98259508.m3u8
+
+#EXTINF:-1 tvg-id="70"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Cutetop
+https://b-hls-04.doppiocdn.com/hls/73770510/73770510.m3u8
+
+#EXTINF:-1 tvg-id="71"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Jiuyue
+https://b-hls-23.doppiocdn.com/hls/94932814/94932814.m3u8
+
+#EXTINF:-1 tvg-id="72"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Cselena
+https://b-hls-09.doppiocdn.com/hls/69911053/69911053.m3u8
+
+#EXTINF:-1 tvg-id="73"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Miin
+https://b-hls-10.doppiocdn.com/hls/96866885/96866885.m3u8
+
+#EXTINF:-1 tvg-id="73"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Melissa
+https://b-hls-05.doppiocdn.com/hls/97765482/97765482.m3u8
+
+#EXTINF:-1 tvg-id="73"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Mina
+https://b-hls-06.doppiocdn.com/hls/66001138/66001138.m3u8
+
+#EXTINF:-1 tvg-id="74"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Lynana
+https://b-hls-02.doppiocdn.com/hls/97820054/97820054.m3u8
+
+#EXTINF:-1 tvg-id="74"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Marygrant
+https://b-hls-18.doppiocdn.com/hls/103281455/103281455.m3u8
+
+#EXTINF:-1 tvg-id="74"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Passion
+https://b-hls-16.doppiocdn.com/hls/65858039/65858039.m3u8
+
+#EXTINF:-1 tvg-id="74"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Vonna
+https://b-hls-01.doppiocdn.com/hls/87508791/87508791.m3u8
+
+#EXTINF:-1 tvg-id="74"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Rumi
+https://b-hls-12.doppiocdn.com/hls/81739345/81739345.m3u8
+
+#EXTINF:-1 tvg-id="75"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Annalove
+https://b-hls-09.doppiocdn.com/hls/96377742/96377742.m3u8
+
+#EXTINF:-1 tvg-id="76"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Amili
+https://b-hls-23.doppiocdn.com/hls/26952171/26952171.m3u8
+
+#EXTINF:-1 tvg-id="77"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Mcandy
+https://b-hls-09.doppiocdn.com/hls/101978230/101978230.m3u8
 #EXTINF:-1 tvg-id="3151" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3151.png" group-title="XXX 🔞️",Brazzers HD
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6182/index.m3u8
 #EXTINF:-1 tvg-id="2021" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2021.png" group-title="XXX 🔞️",Brazzers TV Europe
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/910/index.m3u8
 #EXTINF:-1 tvg-id="3150" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3150.png" group-title="XXX 🔞️",Brazzers eXXtra
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6181/index.m3u8
+#EXTINF:-1 tvg-id="2021" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2021.png" group-title="XXX 🔞️",BRAZZERS TV
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12113/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xxx brazzers 1" tvg-logo="" group-title="XXX TEST NEW",xxx brazzers 1
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544212
+#EXTINF:-1 tvg-id="" tvg-name="xxx brazzers 2" tvg-logo="" group-title="XXX TEST NEW",xxx brazzers 2
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544211
+#EXTINF:-1 tvg-id="" tvg-name="xxx brazzers 3" tvg-logo="" group-title="XXX TEST NEW",xxx brazzers 3
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544210
+#EXTINF:-1 tvg-id="" tvg-name="xxx brazzers 4" tvg-logo="" group-title="XXX TEST NEW",xxx brazzers 4
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544209
+#EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: BRAZZERS" tvg-logo="https://raw.githubusercontent.com/Zonexmedia/zonexxlogofrenchski/main/dvke.png" group-title="PORNBOX",PORN✰CHANNEL: BRAZZERS
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1542253
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers euro" tvg-logo="" group-title="XXX TEST NEW",XXX: Brazzers euro
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537299
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers SD" tvg-logo="" group-title="XXX TEST NEW",XXX: Brazzers SD
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537264
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers SD" tvg-logo="" group-title="XXX TEST NEW",XXX: Brazzers SD
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537107
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRAZZERs TV" tvg-logo="" group-title="XXX TEST NEW",XXX BRAZZERs TV
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537217
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRAZzERS LIVE" tvg-logo="" group-title="XXX TEST NEW",XXX BRAZzERS LIVE
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537165
+#EXTINF:-1,BRAZZERS TV
+https://spotv.me:8080/FG5195018939/5195018939/8807
+#EXTINF:-1,Brazzers TV Europe
+http://hidra.live:80/wxFYeXT7K/do95R3pgW2/35329
 #EXTINF:-1 tvg-id="2322" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2322.png" group-title="XXX 🔞️",Hustler HD orig
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/9065/index.m3u8
 #EXTINF:-1 tvg-id="2322" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2322.png" group-title="XXX 🔞️",Hustler HD Europe
@@ -374,8 +692,6 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12110/index.m3u8
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12111/index.m3u8
 #EXTINF:-1 tvg-id="4919" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/4919.png" group-title="XXX 🔞️",PURE BABES
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12112/index.m3u8
-#EXTINF:-1 tvg-id="2021" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2021.png" group-title="XXX 🔞️",BRAZZERS TV
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12113/index.m3u8
 #EXTINF:-1 tvg-id="4921" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/4921.png" group-title="XXX 🔞️",Bang U
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12114/index.m3u8
 #EXTINF:-1 tvg-id="4922" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/4922.png" group-title="XXX 🔞️",XY Plus 1
@@ -553,14 +869,7 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/18138/index.m3u8
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544214
 #EXTINF:-1 tvg-id="" tvg-name="xxx bang bros 2" tvg-logo="" group-title="XXX TEST NEW",xxx bang bros 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544213
-#EXTINF:-1 tvg-id="" tvg-name="xxx brazzers 1" tvg-logo="" group-title="XXX TEST NEW",xxx brazzers 1
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544212
-#EXTINF:-1 tvg-id="" tvg-name="xxx brazzers 2" tvg-logo="" group-title="XXX TEST NEW",xxx brazzers 2
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544211
-#EXTINF:-1 tvg-id="" tvg-name="xxx brazzers 3" tvg-logo="" group-title="XXX TEST NEW",xxx brazzers 3
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544210
-#EXTINF:-1 tvg-id="" tvg-name="xxx brazzers 4" tvg-logo="" group-title="XXX TEST NEW",xxx brazzers 4
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544209
+
 #EXTINF:-1 tvg-id="" tvg-name="xxx kink.com" tvg-logo="" group-title="XXX TEST NEW",xxx kink.com
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544208
 #EXTINF:-1 tvg-id="" tvg-name="XXX Actress Abella Anderson" tvg-logo="" group-title="XXX TEST NEW",XXX Actress Abella Anderson
@@ -791,8 +1100,7 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1542256
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1542255
 #EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: DOGFART NETWORK" tvg-logo="https://raw.githubusercontent.com/Zonexmedia/zonexxlogofrenchski/main/dvke.png" group-title="PORNBOX",PORN✰CHANNEL: DOGFART NETWORK
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1542254
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: BRAZZERS" tvg-logo="https://raw.githubusercontent.com/Zonexmedia/zonexxlogofrenchski/main/dvke.png" group-title="PORNBOX",PORN✰CHANNEL: BRAZZERS
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1542253
+
 #EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: BRATTY SIS" tvg-logo="https://raw.githubusercontent.com/Zonexmedia/zonexxlogofrenchski/main/dvke.png" group-title="PORNBOX",PORN✰CHANNEL: BRATTY SIS
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1542252
 #EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: 1111 CUSTOMERS" tvg-logo="https://raw.githubusercontent.com/Zonexmedia/zonexxlogofrenchski/main/dvke.png" group-title="PORNBOX",PORN✰CHANNEL: 1111 CUSTOMERS
@@ -1167,8 +1475,7 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537302
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537301
 #EXTINF:-1 tvg-id="" tvg-name="XXX PUBLIC SEX" tvg-logo="" group-title="XXX TEST NEW",XXX PUBLIC SEX
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537300
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers euro" tvg-logo="" group-title="XXX TEST NEW",XXX: Brazzers euro
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537299
+
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BANG BROS" tvg-logo="" group-title="XXX TEST NEW",XXX: BANG BROS
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537298
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZER COMP" tvg-logo="" group-title="XXX TEST NEW",XXX: BRAZER COMP
@@ -1203,8 +1510,7 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537274
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537270
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Naked TV HD" tvg-logo="" group-title="XXX TEST NEW",XXX: Naked TV HD
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537266
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers SD" tvg-logo="" group-title="XXX TEST NEW",XXX: Brazzers SD
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537264
+
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BRattSIS HD" tvg-logo="" group-title="XXX TEST NEW",XXX: BRattSIS HD
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537263
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ASS &ass HD" tvg-logo="" group-title="XXX TEST NEW",XXX: ASS &ass HD
@@ -1291,8 +1597,7 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537221
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537219
 #EXTINF:-1 tvg-id="" tvg-name="XXX Visit-X TV" tvg-logo="" group-title="XXX TEST NEW",XXX Visit-X TV
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537218
-#EXTINF:-1 tvg-id="" tvg-name="XXX BRAZZERs TV" tvg-logo="" group-title="XXX TEST NEW",XXX BRAZZERs TV
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537217
+
 #EXTINF:-1 tvg-id="" tvg-name="XXX PENTHOUSE TV" tvg-logo="" group-title="XXX TEST NEW",XXX PENTHOUSE TV
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537215
 #EXTINF:-1 tvg-id="" tvg-name="XXX DUSK" tvg-logo="" group-title="XXX TEST NEW",XXX DUSK
@@ -1391,8 +1696,7 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537168
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537167
 #EXTINF:-1 tvg-id="" tvg-name="XXX: CZECH STREET PORN" tvg-logo="" group-title="XXX TEST NEW",XXX: CZECH STREET PORN
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537166
-#EXTINF:-1 tvg-id="" tvg-name="XXX BRAZzERS LIVE" tvg-logo="" group-title="XXX TEST NEW",XXX BRAZzERS LIVE
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537165
+
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Creampie" tvg-logo="" group-title="XXX TEST NEW",XXX: Creampie
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537164
 #EXTINF:-1 tvg-id="" tvg-name="XXX: MOFOS" tvg-logo="" group-title="XXX TEST NEW",XXX: MOFOS
@@ -1449,8 +1753,7 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537110
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537109
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTVS tv" tvg-logo="" group-title="XXX TEST NEW",XXX: ADULTVS tv
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537108
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers SD" tvg-logo="" group-title="XXX TEST NEW",XXX: Brazzers SD
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537107
+
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BRattSIS HD" tvg-logo="" group-title="XXX TEST NEW",XXX: BRattSIS HD
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537106
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ASS &ass HD" tvg-logo="" group-title="XXX TEST NEW",XXX: ASS &ass HD
@@ -1873,8 +2176,7 @@ https://spotv.me:8080/FG5195018939/5195018939/249
 https://spotv.me:8080/FG5195018939/5195018939/235
 #EXTINF:-1,SEXTREME
 https://spotv.me:8080/FG5195018939/5195018939/4539
-#EXTINF:-1,BRAZZERS TV
-https://spotv.me:8080/FG5195018939/5195018939/8807
+
 #EXTINF:-1,DORCEL TV HD
 https://spotv.me:8080/FG5195018939/5195018939/8808
 #EXTINF:-1,VIVID RED
@@ -1921,8 +2223,7 @@ https://spotv.me:8080/FG5195018939/5195018939/13493
 http://hidra.live:80/wxFYeXT7K/do95R3pgW2/35326
 #EXTINF:-1,Playboy TV Europe HD
 http://hidra.live:80/wxFYeXT7K/do95R3pgW2/35328
-#EXTINF:-1,Brazzers TV Europe
-http://hidra.live:80/wxFYeXT7K/do95R3pgW2/35329
+
 #EXTINF:-1,Erox
 http://hidra.live:80/wxFYeXT7K/do95R3pgW2/35332
 =
