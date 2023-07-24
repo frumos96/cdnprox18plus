@@ -32,13 +32,66 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="3"group-title="XXX 🔞" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 tvg-id="1"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Rin
+#EXTINF:-1, bigo
+https://*.*.*
+#EXTINF:-1 group-title="Only livestream", only cat
+https://www.bigo.tv/meo12121992
+#EXTINF:-1 group-title="Only livestream", Như Hexi
+https://www.bigo.tv/en/callmeyourlove
+#EXTINF:-1 group-title="Only livestream", Vân Ruby
+https://www.bigo.tv/en/vanruby
+#EXTINF:-1 group-title="Only livestream", 🦁LinhCọp🦁
+https://www.bigo.tv/en/Duaxinhh_228
+
+#EXTINF:-1, bilibili -- toi
+https://*.*.*
+#EXTINF:-1 group-title="Only livestream", 兔叽学妹 *****
+https://live.bilibili.com/9863884?hotRank=0
+#EXTINF:-1 group-title="Only livestream", O元子
+https://live.bilibili.com/27481455?hotRank=0&live_from=77002
+#EXTINF:-1 group-title="Only livestream", 可露丽ovo
+https://live.bilibili.com/27900148?hotRank=0&session_id=49965d3df5104362acc1c5b66ee73a1b_4D07810A-B4D3-476D-9A5A-84E033743FD3&live_from=77002
+#EXTINF:-1 group-title="Only livestream", 大锅炖兔兔
+https://live.bilibili.com/21596838?hotRank=0&live_from=77002
+#EXTINF:-1 group-title="Only livestream", -瑾萱- *****
+https://live.bilibili.com/11149305?hotRank=0&live_from=77002
+#EXTINF:-1 group-title="Only livestream", 爱之小魔仙 *****
+https://live.bilibili.com/510507?hotRank=0&launch_id=1000153&live_from=77002
+#EXTINF:-1 group-title="Only livestream", 6cleanbear *****
+https://live.bilibili.com/27944835
+
+#EXTINF:-1, bilibili -- sang
+https://*.*.*
+#EXTINF:-1 group-title="Only livestream", 好困凌凌漆 *****
+https://live.bilibili.com/30003146?hotRank=0&live_from=77002
+#EXTINF:-1 group-title="Only livestream", 元乔巧丶 *****
+https://live.bilibili.com/21332276?hotRank=0&live_from=77002
+
+#EXTINF:-1, stripchat -- 
+https://*.*.*
+#EXTINF:-1 group-title="Only livestream", anan_babe
+https://b-hls-03.doppiocdn.org/hls/72687438/72687438.m3u8?playlistType=lowLatency
+#EXTINF:-1 group-title="Only livestream", Michio_nurse
+https://b-hls-09.doppiocdn.org/hls/112594207/112594207_720p.m3u8?playlistType=lowLatency
+#EXTINF:-1 group-title="Only livestream", aisaria
+https://b-hls-02.doppiocdn.org/hls/95931160/95931160_720p.m3u8?playlistType=lowLatency
+#EXTINF:-1 group-title="Only livestream", FieriiaDii
+https://b-hls-18.doppiocdn.org/hls/94097981/94097981_720p.m3u8?playlistType=lowLatency
+#EXTINF:-1 group-title="Only livestream", massage
+https://b-hls-24.doppiocdn.org/hls/118403642/118403642_720p.m3u8?playlistType=lowLatency
+#EXTINF:-1 group-title="Only livestream", bejeni-sweet
+https://b-hls-08.doppiocdn.org/hls/89864150/89864150_1080p.m3u8?playlistType=lowLatency
+#EXTINF:-1 group-title="Only livestream", Dennielle-
+https://b-hls-24.doppiocdn.org/hls/99432040/99432040.m3u8?playlistType=lowLatency
+#EXTINF:-1 group-title="Only livestream", jiso-baobei
+https://b-hls-20.doppiocdn.org/hls/100001907/100001907_1080p.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-id="1" group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Rin
 https://b-hls-09.doppiocdn.com/hls/58663247/58663247.m3u8
 
-#EXTINF:-1 tvg-id="1"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Anna Gau 
+#EXTINF:-1 tvg-id="1" group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Anna Gau 
 https://b-hls-06.doppiocdn.com/hls/93977457/93977457.m3u8
 
-#EXTINF:-1 tvg-id="2"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Vanila
+#EXTINF:-1 tvg-id="2" group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Vanila
 https://b-hls-03.doppiocdn.com/hls/76550244/76550244.m3u8
 
 #EXTINF:-1 tvg-id="3"group-title="Only livestream" logo="https://images4.imagebam.com/32/39/61/MEKVOVE_o.jpg",Candybabyya
